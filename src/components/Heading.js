@@ -1,4 +1,6 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import BG1 from "../components/images/jesus-kiteque-wn-KYaHwcis-unsplash.jpg";
+import BG2 from "../components/images/samsommer-vddccTqwal8-unsplash.jpg";
 
 export default class Heading extends Component {
     render() {
@@ -7,7 +9,7 @@ export default class Heading extends Component {
                 <section id="colorlib-hero" className="js-fullheight" data-section="home">
                     <div className="flexslider js-fullheight">
                         <ul className="slides">
-                            <li id="resumeBG">
+                            <li style={{ backgroundImage: `url(${BG1})` }}>
                                 <div className="overlay" />
                                 <div className="container-fluid">
                                     <div className="row">
@@ -22,7 +24,7 @@ export default class Heading extends Component {
                                     </div>
                                 </div>
                             </li>
-                            <li id="projectBG">
+                            <li style={{ backgroundImage: `url(${BG2})` }}>
                                 <div className="overlay" />
                                 <div className="container-fluid">
                                     <div className="row">
