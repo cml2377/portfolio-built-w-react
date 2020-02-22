@@ -1,18 +1,26 @@
-import React from 'react';
+import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import Project from "./components/Project";
+import Heading from "./components/Heading";
+import Timeline from "./components/Timeline";
+import Projects from "./components/Projects";
+import Navbar from "./components/Navbar";
 
-function App() {
-  return (
-    <div className="App">
-      <Header />
-      <Project />
-      <Footer />
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <div id="colorlib-page">
+        <div id="container-wrap">
+          <Navbar />
+          <div id="colorlib-main">
+            <Heading />
+            <Projects />
+            <Timeline />
+          </div>
+        </div>
+      </div>
+    );
+  }
 }
 
 export default App;
