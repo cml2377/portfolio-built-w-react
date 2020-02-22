@@ -33,8 +33,8 @@ export default class Projects extends Component {
                                             <h3><a href="https://github.com/cml2377/THE-PACK">Colossal Hog</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
-                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 359</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 98</a></span>
                                             </p>
                                         </div>
                                     </div>
@@ -47,8 +47,8 @@ export default class Projects extends Component {
                                             <h3><a href="https://github.com/kimiinglet/meanLeanFreakGoat">WanderDog</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
-                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 670</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 306</a></span>
                                             </p>
                                         </div>
                                     </div>
@@ -61,8 +61,8 @@ export default class Projects extends Component {
                                             <h3><a href="https://github.com/cml2377/World-Capitals-Quiz">Capitals Quiz</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
-                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 472</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 204</a></span>
                                             </p>
                                         </div>
                                     </div>
@@ -75,8 +75,8 @@ export default class Projects extends Component {
                                             <h3><a href="https://github.com/cml2377/Day-Planner">Day Planner</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
-                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 653</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 102</a></span>
                                             </p>
                                         </div>
                                     </div>
@@ -89,8 +89,8 @@ export default class Projects extends Component {
                                             <h3><a href="https://github.com/cml2377/dev-profile-generator">Developer Profile Generator</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
-                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 451</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 92</a></span>
                                             </p>
                                         </div>
                                     </div>
@@ -103,8 +103,8 @@ export default class Projects extends Component {
                                             <h3><a href="https://github.com/cml2377/Employee-Tracker">Employee Tracker</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
-                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 257</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 38</a></span>
                                             </p>
                                         </div>
                                     </div>
@@ -117,8 +117,8 @@ export default class Projects extends Component {
                                             <h3><a href="https://github.com/cml2377/Note-Taker">Note Taker</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
-                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 242</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 89</a></span>
                                             </p>
                                         </div>
                                     </div>
@@ -131,8 +131,8 @@ export default class Projects extends Component {
                                             <h3><a href="https://github.com/cml2377/Superb-Pass-Gen">Password Generator</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
-                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 564</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 220</a></span>
                                             </p>
                                         </div>
                                     </div>
@@ -145,8 +145,8 @@ export default class Projects extends Component {
                                             <h3><a href="https://github.com/cml2377/The-Ideal-Beginner-Reacts">Weather Around the World</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
-                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 131</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 51</a></span>
                                             </p>
                                         </div>
                                     </div>
@@ -159,8 +159,8 @@ export default class Projects extends Component {
                                             <h3><a href="https://docs.google.com/document/d/18cKmNjvZLP9Z7b3pL-QAQlOlp28aZt6VzPo1Grfr9d0/edit?usp=sharing">Essay on Sequelize</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
-                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
-                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 235</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 67</a></span>
                                             </p>
                                         </div>
                                     </div>
