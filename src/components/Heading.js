@@ -7,7 +7,7 @@ export default class Heading extends Component {
                 <section id="colorlib-hero" className="js-fullheight" data-section="home">
                     <div className="flexslider js-fullheight">
                         <ul className="slides">
-                            <li style={{ backgroundImage: 'url(./../images/Crystal-1.jpg)' }}>
+                            <li id="resumeBG">
                                 <div className="overlay" />
                                 <div className="container-fluid">
                                     <div className="row">
@@ -22,7 +22,7 @@ export default class Heading extends Component {
                                     </div>
                                 </div>
                             </li>
-                            <li style={{ backgroundImage: 'url(./../images/Crystal-2.jpg)' }}>
+                            <li id="projectBG">
                                 <div className="overlay" />
                                 <div className="container-fluid">
                                     <div className="row">
@@ -30,7 +30,7 @@ export default class Heading extends Component {
                                             <div className="slider-text-inner">
                                                 <div className="desc">
                                                     <h1>I love creating<br /> websites and apps!</h1>
-                                                    <p><a className="btn btn-primary btn-learn" href="https://github.com/cml2377" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
+                                                    <p id="projectBtn"><a className="btn btn-primary btn-learn" href="https://github.com/cml2377" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
                                                 </div>
                                             </div>
                                         </div>
