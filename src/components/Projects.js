@@ -1,4 +1,17 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import ColossalHog from "../components/images/Colossal-Hog.png";
+import WanderDog from "../components/images/wanderdog.png";
+import CapitalsQuiz from "../components/images/Capitals-Quiz.png";
+import DayPlanner from "../components/images/Day-Planner.png";
+import DevProfile from "../components/images/Dev-Profile-Generator.png";
+import EmployeeTracker from "../components/images/employee-tracker.gif";
+import NoteTaker from "../components/images/note-taker.gif";
+import PasswordGen from "../components/images/Password-Generator.png";
+import ReactWeather from "../components/images/React-Weather.png";
+import SequelizeEssay from "../components/images/Sequelize-Essay.png";
+import TeamGen from "../components/images/Team-Generator.png";
+import WeatherDash from "../components/images/weather-dashboard-1.0.png";
+
 
 export default class Projects extends Component {
     render() {
@@ -14,11 +27,10 @@ export default class Projects extends Component {
                         </div>
                         <div className="row">
                             <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-                                <div className="project" style={{ backgroundImage: 'url(images/img-1.jpg)' }}>
+                                <div className="project" style={{ backgroundImage: `url(${ColossalHog})` }}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="work.html">Work 01</a></h3>
-                                            <span>Website</span>
+                                            <h3><a href="https://github.com/cml2377/THE-PACK">Colossal Hog</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
                                                 <span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -29,11 +41,10 @@ export default class Projects extends Component {
                                 </div>
                             </div>
                             <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-                                <div className="project" style={{ backgroundImage: 'url(images/img-2.jpg)' }}>
+                                <div className="project" style={{ backgroundImage: `url(${WanderDog})` }}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="work.html">Work 02</a></h3>
-                                            <span>Animation</span>
+                                            <h3><a href="https://github.com/kimiinglet/meanLeanFreakGoat">WanderDog</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
                                                 <span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -44,11 +55,10 @@ export default class Projects extends Component {
                                 </div>
                             </div>
                             <div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-                                <div className="project" style={{ backgroundImage: 'url(images/img-3.jpg)' }}>
+                                <div className="project" style={{ backgroundImage: `url(${CapitalsQuiz})` }}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="work.html">Work 03</a></h3>
-                                            <span>Illustration</span>
+                                            <h3><a href="https://github.com/cml2377/World-Capitals-Quiz">Capitals Quiz</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
                                                 <span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -59,11 +69,10 @@ export default class Projects extends Component {
                                 </div>
                             </div>
                             <div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-                                <div className="project" style={{ backgroundImage: 'url(images/img-4.jpg)' }}>
+                                <div className="project" style={{ backgroundImage: `url(${DayPlanner})` }}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="work.html">Work 04</a></h3>
-                                            <span>Application</span>
+                                            <h3><a href="https://github.com/cml2377/Day-Planner">Day Planner</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
                                                 <span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -74,11 +83,10 @@ export default class Projects extends Component {
                                 </div>
                             </div>
                             <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-                                <div className="project" style={{ backgroundImage: 'url(images/img-5.jpg)' }}>
+                                <div className="project" style={{ backgroundImage: `url(${DevProfile})` }}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="work.html">Work 05</a></h3>
-                                            <span>Graphic, Logo</span>
+                                            <h3><a href="https://github.com/cml2377/dev-profile-generator">Developer Profile Generator</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
                                                 <span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -89,11 +97,10 @@ export default class Projects extends Component {
                                 </div>
                             </div>
                             <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-                                <div className="project" style={{ backgroundImage: 'url(images/img-6.jpg)' }}>
+                                <div className="project" style={{ backgroundImage: `url(${EmployeeTracker})` }}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="work.html">Work 06</a></h3>
-                                            <span>Web Design</span>
+                                            <h3><a href="https://github.com/cml2377/Employee-Tracker">Employee Tracker</a></h3>
                                             <p className="icon">
                                                 <span><a href="#"><i className="icon-share3" /></a></span>
                                                 <span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -103,10 +110,94 @@ export default class Projects extends Component {
                                     </div>
                                 </div>
                             </div>
+                            <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <div className="project" style={{ backgroundImage: `url(${NoteTaker})` }}>
+                                    <div className="desc">
+                                        <div className="con">
+                                            <h3><a href="https://github.com/cml2377/Note-Taker">Note Taker</a></h3>
+                                            <p className="icon">
+                                                <span><a href="#"><i className="icon-share3" /></a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <div className="project" style={{ backgroundImage: `url(${PasswordGen})` }}>
+                                    <div className="desc">
+                                        <div className="con">
+                                            <h3><a href="https://github.com/cml2377/Superb-Pass-Gen">Password Generator</a></h3>
+                                            <p className="icon">
+                                                <span><a href="#"><i className="icon-share3" /></a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <div className="project" style={{ backgroundImage: `url(${ReactWeather})` }}>
+                                    <div className="desc">
+                                        <div className="con">
+                                            <h3><a href="https://github.com/cml2377/The-Ideal-Beginner-Reacts">Weather Around the World</a></h3>
+                                            <p className="icon">
+                                                <span><a href="#"><i className="icon-share3" /></a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <div className="project" style={{ backgroundImage: `url(${SequelizeEssay})` }}>
+                                    <div className="desc">
+                                        <div className="con">
+                                            <h3><a href="https://docs.google.com/document/d/18cKmNjvZLP9Z7b3pL-QAQlOlp28aZt6VzPo1Grfr9d0/edit?usp=sharing">Essay on Sequelize</a></h3>
+                                            <p className="icon">
+                                                <span><a href="#"><i className="icon-share3" /></a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 100</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <div className="project" style={{ backgroundImage: `url(${TeamGen})` }}>
+                                    <div className="desc">
+                                        <div className="con">
+                                            <h3><a href="https://github.com/cml2377/team-generator">Team Generator</a></h3>
+                                            <p className="icon">
+                                                <span><a href="#"><i className="icon-share3" /></a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 50</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 19</a></span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <div className="project" style={{ backgroundImage: `url(${WeatherDash})` }}>
+                                    <div className="desc">
+                                        <div className="con">
+                                            <h3><a href="https://github.com/cml2377/weather-dashboard">Weather Dashboard</a></h3>
+                                            <p className="icon">
+                                                <span><a href="#"><i className="icon-share3" /></a></span>
+                                                <span><a href="#"><i className="icon-eye" /> 312</a></span>
+                                                <span><a href="#"><i className="icon-heart" /> 49</a></span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                         <div className="row">
                             <div className="col-md-12 animate-box">
-                                <p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
+                                <p><a href="https://github.com/cml2377" className="btn btn-primary btn-lg btn-load-more">See More <i className="icon-reload" /></a></p>
                             </div>
                         </div>
                     </div>
