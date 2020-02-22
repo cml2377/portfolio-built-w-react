@@ -1,6 +1,10 @@
 # Portfolio Built with React
 Not my official portfolio; just to get practice with React.
 
+[Link to Site Here!](https://crystals-react-portfolio.herokuapp.com/)
+
+<img src="./src/components/images/screencapture-crystals-react-portfolio-herokuapp-2020-02-21-19_54_33.png" width="100%">
+
 ## Requirements
 
 * Updated portfolio featuring 6 total projects
